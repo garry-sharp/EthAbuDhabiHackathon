@@ -1,3 +1,5 @@
+![alt text](https://github.com/garry-sharp/EthAbuDhabiHackathon/blob/main/logo.jpg?raw=true)
+
 # Price Aggregastor Tool (ETH Abu Dhabi Hackathon)
 
 A backend tool that interacts with dexes on the XDC network. It pulls a list of tokens from https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/testnet.tokenlist.json.
@@ -25,6 +27,7 @@ Garry Sharp and Ben Liams
 - Better validation using something like cobra for CLI arg parsing.
 - Dockerise the application.
 - Proper error handling (lots of errors are just ignored into a '\_' variable in the go code.)
+- Better layout for code reusability.
 
 ## Running the code.
 
